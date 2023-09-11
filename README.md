@@ -1,2 +1,6 @@
-# Basic-Java-SpringBoot-Sample
-Basic Java Spring Boot Application
+# Basic Java SpringBoot Sample Application
+Below features demonstrated in this sample application
+- Spring Boot
+- Hibernate
+- MySQL database
+- Jackson databind 
